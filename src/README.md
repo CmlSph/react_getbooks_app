@@ -7,7 +7,7 @@ The features that can be found in this project:
 - Working with APIs, fetching data
 - ContextAPI,
 - createContext
-- createContext
+- useContext
 - useState()
 - useEffect()
 - useParams()
